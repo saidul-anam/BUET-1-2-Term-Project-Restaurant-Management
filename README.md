@@ -1,1 +1,2 @@
-# BUET-1-2-Term-Project-Restaurant-Management
+Restaurant Management Project BUET-1-2 Term
+The restaurant management system created by JavaFX is based on networking. Here, patrons can sign in to their accounts, look for food, locate restaurants, and place orders for the food they want, which is then delivered to the eatery. A server is used to maintain the entire thing. Thus, this application is server-based. Here, the entire code is written in Java.
